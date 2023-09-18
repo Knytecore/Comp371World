@@ -1,3 +1,5 @@
 # comp371_project
 
-Y r u reading this.
+Done in a team of 5.
+
+A procedural world filled with trees and rocks and cliffs.
